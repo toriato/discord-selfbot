@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.0"
+  }
+}
